@@ -3,3 +3,7 @@
 .Rdata
 .httr-oauth
 .DS_Store
+data/banco-suelen-coorte-t1-t2.sav
+data/da_clean.rds
+data/da_train.rds
+data/da_test.rds
